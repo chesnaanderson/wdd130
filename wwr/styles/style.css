@@ -5,3 +5,27 @@ body {
     font-size: 18px;
     text-align: center;
   }
+body {
+    background-color: #d2e2fc; 
+}
+header {
+    background-color: #173753
+} 
+nav a:hover {
+    background-color: #F2CD5D;
+    color: #000308
+}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}  
