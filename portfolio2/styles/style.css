@@ -11,7 +11,7 @@
     --paragraph-font: Lato, "IM Fell French Canon", sans-serif;
   
     /* these colors below should be chosen from among your palette colors above */
-    --headline-color-on-white: #AB87FF ;  /* headlines on a white background */ 
+    --headline-color-on-white: #CBBFBB;  /* headlines on a white background */ 
     --headline-color-on-color: white; /* headlines on a colored background */ 
     --paragraph-color-on-white: #C1FF9B; /* paragraph text on a white background */ 
     --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
@@ -34,7 +34,7 @@ body {
    
   }
 body {
-    background-color: #d2e2fc; 
+    background-color: #eff1f3; 
     margin: 200px 0;
     padding: 35px;
     margin-top: 50px
